@@ -2,6 +2,8 @@
 
 Generate an Arma 3 Eden SQF file from real-world OpenStreetMap (OSM) building data.
 
+THIS FORK IS ONLY TO MAKE THE WEBSITE AVAILABLE ONLINE! I'll delete it once the main repo adds it as well!
+
 The importer is a small browser-based tool: select an area on a map, download its OSM data, convert building footprints into approximate Arma 3 buildings, and download a `generated_city.sqf` file that can be executed in Eden's Debug Console.
 
 > **Important:** This does **not** create a new Arma 3 terrain and it does **not** import real 3D building models. It creates Arma 3 objects using existing class names, positioned and rotated to roughly match OSM building footprints.
